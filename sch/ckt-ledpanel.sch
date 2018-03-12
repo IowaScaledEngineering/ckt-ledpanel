@@ -207,7 +207,7 @@ device=RESISTOR
 T 42400 60200 5 10 1 1 180 0 1
 refdes=R3
 T 42600 60000 5 10 1 1 180 0 1
-value=30.1k
+value=29.1k
 T 42100 59600 5 10 0 0 90 0 1
 footprint=0805
 }
