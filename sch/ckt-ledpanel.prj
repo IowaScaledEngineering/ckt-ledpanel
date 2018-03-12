@@ -1,0 +1,4 @@
+schematics ckt-ledpanel.sch
+output-name ../pcb/ckt-ledpanel
+skip-m4
+elements-dir ../../ise-footprints
