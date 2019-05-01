@@ -433,7 +433,7 @@ symversion=0.1
 T 40000 60200 5 10 1 1 0 0 1
 value=1uF
 T 40600 59800 5 10 0 1 0 0 1
-footprint=1210
+footprint=0805
 T 40000 60000 5 10 1 1 0 0 1
 comment=50V
 }
@@ -450,7 +450,7 @@ symversion=0.1
 T 39500 57000 5 10 1 1 0 0 1
 value=0.1uF
 T 40200 56600 5 10 0 1 0 0 1
-footprint=1210
+footprint=0805
 T 39600 56800 5 10 1 1 0 0 1
 comment=16V
 }
