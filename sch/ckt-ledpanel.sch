@@ -359,7 +359,7 @@ device=RESISTOR
 T 38800 61000 5 10 1 1 180 0 1
 refdes=R8
 T 39000 60800 5 10 1 1 180 0 1
-value=365k
+value=402k
 T 39300 60400 5 10 0 0 90 0 1
 footprint=0805
 }
@@ -374,7 +374,7 @@ device=RESISTOR
 T 39000 57400 5 10 1 1 180 0 1
 refdes=R9
 T 39000 57200 5 10 1 1 180 0 1
-value=10k
+value=10.7k
 T 39300 56800 5 10 0 0 90 0 1
 footprint=0805
 }
@@ -435,7 +435,7 @@ C 35200 49600 0 0 0 title-bordered-A2.sym
 T 39700 56000 9 10 1 0 0 0 3
 Li-Ion Undervoltage Cutoff
 Safety Circuit - Cuts out at
-15V, which is good for 5 cells
+15.25V, which is good for 5 cells
 N 42600 59500 42600 60400 4
 C 44100 60600 1 0 0 sts8c5h30l-1.sym
 {
@@ -497,7 +497,7 @@ device=RESISTOR
 T 43700 61000 5 10 1 1 180 0 1
 refdes=R11
 T 43700 60800 5 10 1 1 180 0 1
-value=100k
+value=47k
 T 43100 61300 5 10 0 0 270 0 1
 footprint=0805
 }
