@@ -1115,7 +1115,7 @@ Element["" "0805" "R8" "402k" 1045.00mil 194.57mil -26.07mil -130.64mil 0 100 ""
 
 	)
 
-Element["" "0805" "R12" "10k" 2100.00mil 190.00mil -45.00mil -110.00mil 0 100 ""]
+Element["" "0805" "R12" "107k" 2100.00mil 190.00mil -45.00mil -110.00mil 0 100 ""]
 (
 	Pad[35.43mil -3.93mil 35.43mil 3.93mil 51.18mil 20.00mil 57.18mil "1" "1" "square"]
 	Pad[-35.43mil -3.93mil -35.43mil 3.93mil 51.18mil 20.00mil 57.18mil "2" "2" "square"]
@@ -1290,7 +1290,7 @@ Element["" "0805" "R2" "330k" 1870.00mil 330.00mil -135.00mil -10.00mil 0 100 ""
 
 	)
 
-Element["" "0805" "R6" "5.1k" 2495.00mil 1395.00mil -130.00mil -30.00mil 0 100 ""]
+Element["" "0805" "R6" "18k" 2495.00mil 1395.00mil -130.00mil -30.00mil 0 100 ""]
 (
 	Pad[35.43mil -3.93mil 35.43mil 3.93mil 51.18mil 20.00mil 57.18mil "1" "1" "square"]
 	Pad[-35.43mil -3.93mil -35.43mil 3.93mil 51.18mil 20.00mil 57.18mil "2" "2" "square"]
